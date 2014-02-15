@@ -1,0 +1,14 @@
+*.py[cod]
+
+# Packages
+*.egg-info
+dist
+
+# Installer logs
+pip-log.txt
+
+# Sphinx
+docs/Makefile
+docs/_build
+
+.coverage
