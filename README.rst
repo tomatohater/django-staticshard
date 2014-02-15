@@ -1,4 +1,4 @@
-django-staticshard
+.. image:: https://raw.github.com/tomatohater/django-staticshard/master/logo.png
 ==================
 
 Domain sharding for Django static files.
