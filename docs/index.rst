@@ -12,7 +12,9 @@ Domain sharding for Django static files.
 .. image:: https://badge.fury.io/py/django-staticshard.png
     :target: http://badge.fury.io/py/django-staticshard
 
-``django-staticshard`` provides a set of utilities which to easily enable domain sharding of static files in your Django project?
+``django-staticshard`` provides a set of utilities to easily enable domain sharding of static files in your Django project.
+
+It comes with a storage backend, a tempalatetag, and a middleware (you may use one or all).
 
 
 What is Domain Sharding?
